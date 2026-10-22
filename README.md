@@ -1,8 +1,6 @@
 # ShardVault
 
 **Self-healing object storage you can break on purpose.**
-
-[![CI](https://github.com/YOUR-USERNAME/shardvault/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/shardvault/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-S3%20compatible-C72E49?logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
